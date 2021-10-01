@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {HeroContainer, HeroBg, VideoBg, HeroContent, HeroH1, HeroP, HeroBtnWrapper, ArrowForward, ArrowRight} from './HeroElements'
 import Video from '../../videos/bitcoin_video.mp4'
-import { Button} from '../ButtonElement'
+import { Button} from '../ButtonElements'
 
 
 const HeroSection = () => {
