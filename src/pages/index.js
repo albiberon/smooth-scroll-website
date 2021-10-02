@@ -5,6 +5,7 @@ import { homeObjOne, homeObjTwo, homeObjThree } from '../components/InfoSection/
 import Navbar from '../components/Navbar'
 import Services from '../components/Services/index'
 import Sidebar from '../components/Sidebar'
+import Footer from '../components/Footer'
 
 
 function Home() {
@@ -24,6 +25,7 @@ function Home() {
             <InfoSection { ...homeObjTwo}/>
             <Services/>
             <InfoSection { ...homeObjThree}/>
+            <Footer/>
         </>
     )
 }
