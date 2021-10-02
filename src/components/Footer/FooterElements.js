@@ -104,9 +104,6 @@ export const SocialIcons = styled.div`
     align-items: center;
     width: 240px;
 
-    /* @media screen and (max-width: 820px) {
-        padding-top: 32px;
-    } */
 `
 
 export const SocialIconLink = styled.a`
